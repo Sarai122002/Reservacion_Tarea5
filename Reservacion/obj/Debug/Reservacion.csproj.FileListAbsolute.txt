@@ -1,0 +1,2 @@
+C:\Reservacion\Reservacion\obj\Debug\Reservacion.csproj.AssemblyReference.cache
+C:\Reservacion\Reservacion\obj\Debug\Reservacion.csproj.CoreCompileInputs.cache
